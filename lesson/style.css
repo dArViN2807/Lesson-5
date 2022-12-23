@@ -1,0 +1,25 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 5px;
+  justify-content: center;
+}
+.wrapper-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 350px;
+  background-color: #e9eaee;
+  width: 400px;
+  gap: 5px;
+}
+.color {
+  color: rgb(78, 187, 255);
+}
+.text {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 20px;
+}

@@ -1,0 +1,36 @@
+* {
+  margin: 0 0;
+  padding: 0 0;
+}
+.Heading {
+  text-align: center;
+  font-size: 75px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: normal;
+}
+.main {
+  flex-wrap: wrap;
+  max-width: 800px;
+  margin: 150px auto;
+  display: flex;
+  align-items: center;
+}
+.container {
+  height: 150px;
+  text-align: center;
+  gap: 5px;
+  align-items: center;
+  border: 2px solid;
+  width: 400px;
+}
+
+.font {
+  color: orange;
+}
+.table {
+  margin-left: 150px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+}
